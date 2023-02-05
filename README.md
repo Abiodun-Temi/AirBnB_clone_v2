@@ -155,8 +155,5 @@ No known bugs at this time.
 
 ## Authors
 
-Daniel Shibabaw - [Github](https://github.com/ShagizMan) <br>
-Olyad Temesgen - [Github](https://github.com/OL-YAD)
-
 ## License
 Public Domain. No copy write protection. 
